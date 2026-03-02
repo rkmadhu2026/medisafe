@@ -1,0 +1,7 @@
+{
+  "name": "MediSafe AI",
+  "description": "AI-powered prescription safety platform with OCR, drug interaction detection, and regional language translation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
